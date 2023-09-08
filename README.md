@@ -1,6 +1,6 @@
 # challenge_portfolio_Olga
 
-# Task 1
+# TASK 1
 
 ## Subtask 1
 9/10
@@ -11,4 +11,69 @@ Cześć! Jestem Olga. Zdecydowałam się na udział w challenge portfolio aby do
 Moim celem jest stworzenie imponującego portfolio, dzięki któremu otrzymam pierwszą pracę na stanowisku testerskim.
 
 Moje oczekiwania wobec projektu: motywacja do regularnej nauki, wsparcie mentorów, przełożenie teorii na praktykę, zwieńczenie 7 tygodniowego wyzwania pięknym portfolio oraz gotowością do rekrutacji i podjęcia pracy!
+
+## Subtask 4
+*1.Na czym polega ta aplikacja? Do czego służy?*
+
+  Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie oraz dodawanie do systemu wskaźników, umiejętności i pozycje zawodników.
+  
+
+*2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*
+
+-Logowanie do systemu, intuicyjne, nic bym nie zmieniła
+
+-Funkcja "przypomnij hasło" w panelu logowania: służy do odzyskania hasła do logowania. Hasło przysyłane jest na email, którym user się loguje. Intuicyjne, nic bym nie zmieniła
+
+-Wylogowanie z systemu, intuicyjne, nic bym nie zmieniła
+
+-Zmiana języka podczas logowania: ta opcja daje wybór używania aplikacji w języku polskim lub angielskim i jest dostępna na stronie logowania,a także na stronie głównej po zalogowaniu się. Zmieniłabym znaki chińskie przy tej opcji np na flagę PL i GBR
+
+-Scouts Panel opisany jako "Panel zarządzania graczami, meczami i do tworzenia raportów". Klikając na link DEV TEAM CONTACT strona przekierowuje na stronę logowania do slack'a zamiast do opisanego panelu
+
+-Funkcja "Gracze": lista graczy podająca następujące dane zawodników: imię,nazwisko, wiek, pozycja, klub, recenzja, mecze, raporty. Nie podoba mi się, że aby zobaczyć wszystkie dane muszę przewijać ekran w poziomie, zmieniłabym tą tabele aby była widoczna w całości na ekranie
+
+-Funkcja 'Download CSV': umożliwia ściągnięcie raportu w formacie CSV
+
+-Funkcja 'Print': umożliwia wydruk raportu
+
+-Funkcja 'View columns': umożliwia dostosowanie raportu do potrzeb użytkownika. Można ustawić wszystkie kolumny jako widoczne lub ukryć wybrane kolumny
+
+-Funkcja 'Filter Table': umożliwia filtrowanie danych w tabeli używając imienia, nazwiska, wieku, pozycji, nazwy klubu, recenzji
+
+-Funkcja 'Dodaj gracza' znajdująca się w sekcji Linki pomocnicze umożliwia dodanie nowego zawodnika piłki nożnej do systemu
+
+
+*3.Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*
+
+Nie podoba mi się interfejs aplikacji. Nieciekawa wizualnie
+
+
+*4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*
+
+Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wątpliwości- czy opisuje moją aktywność czy aktywność innych użytkowników.
+
+
+*5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)*
+
+1.Scouts Panel  opisany jako "Panel zarządzania graczami, meczami i do tworzenia raportów" nie ma linka przekierowującego do panelu,a jednynie kieruje na stronę komunikatora slack
+
+2.Uważam, że błedem jest to, że mogę modyfikować dane zawodników w sekcji 'Gracze'. Wydaje mi się, że prawo do modyfikacji powinien mieć tylko użytkownik który dodał zawodnika lub ewentualnie jeśli ja wprowadzam zmianę to zanim ta zmiana pojawi się w systemie to dobrze aby musiała być zaakceptowana przez osobę, która stworzyła profil gracza
+  
+3.Podczas dodawania nowego zawodnika i edycji danych zawodnika zauważyłam błędy w niektórych polach:
+   
+-w polu 'Telefon' można wpisać litery i znaki specjalne, nie ma ograniczenia do liczb
+
+-w polach 'Waga' i 'Wzrost' dozwolone są ujemne liczby
+
+-w polu 'Data urodzenia' można wybrać datę z przyszłości
+
+-w polu email można wpisać dane bez znaku @. System nie pozwala dodać takiego nieprawidłowego adresu email ale pokazuje komunikat "Nie udało się dodać gracza" zamiast informacji "Niepoprawny email"
+
+-wydaje mi się, że w polu 'Główna pozycja' powinna być lista rozwijana z której użytkownik mógłby wybrać jedną pozycję, uniemożliwiłoby to wpisywanie abstrakcyjnych danych
+
+-w polu 'Link do YouTube' można dodać dowolny link, system nie sprawdza czy jest to link do YT czy inny
+
+-w polu 'pofil facebook' system akceptuje dowolne dane np "sda" czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
+
+4. Wydaje mi się, że brakuje regulaminu, polityki prywatności
 
