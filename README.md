@@ -28,7 +28,7 @@ Moje oczekiwania wobec projektu: motywacja do regularnej nauki, wsparcie mentor�
 
 -Funkcjonalność "Zmiana języka podczas logowania": ta opcja daje wybór używania aplikacji w języku polskim lub angielskim i jest dostępna na stronie logowania,a także na stronie głównej po zalogowaniu się. Zmieniłabym znaki chińskie przy tej opcji np na flagę PL i GBR
 
--Funkcja "Wyświetlanie listy graczy": lista graczy pokazuje następujące dane zawodników: imię,nazwisko, wiek, pozycja, klub, recenzja, mecze, raporty. Nie podoba mi się, że aby zobaczyć wszystkie dane muszę przewijać ekran w poziomie, zmieniłabym tą tabele aby była widoczna w całości na ekranie
+-Funkcjonalność "Wyświetlanie listy graczy": lista graczy pokazuje następujące dane zawodników: imię,nazwisko, wiek, pozycja, klub, recenzja, mecze, raporty. Nie podoba mi się, że aby zobaczyć wszystkie dane muszę przewijać ekran w poziomie, zmieniłabym tą tabele aby była widoczna w całości na ekranie
 
 -Funkcjonaloność 'Download CSV': umożliwia ściągnięcie raportu o zawodnikach w formacie CSV
 
@@ -57,21 +57,21 @@ Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wąt
 
 2.Uważam, że błedem jest to, że mogę modyfikować dane zawodników w sekcji 'Gracze'. Wydaje mi się, że prawo do modyfikacji powinien mieć tylko użytkownik który dodał zawodnika lub ewentualnie jeśli ja wprowadzam zmianę to zanim ta zmiana pojawi się w systemie to dobrze aby musiała być zaakceptowana przez osobę, która stworzyła profil gracza
   
-3.Podczas dodawania nowego zawodnika i edycji danych zawodnika zauważyłam błędy w niektórych polach:
+3.Podczas dodawania nowego zawodnika i edycji danych zawodnika zauważyłam błędy w niżej wymienionych polach:
    
--w polu 'Telefon' można wpisać litery i znaki specjalne, nie ma ograniczenia do liczb
+-w polu "Telefon" można wpisać litery i znaki specjalne, nie ma ograniczenia do liczb
 
--w polach 'Waga' i 'Wzrost' dozwolone są ujemne liczby
+-w polach "Waga" i "Wzrost" dozwolone są ujemne liczby
 
--w polu 'Data urodzenia' można wybrać datę z przyszłości
+-w polu "Data urodzenia" można wybrać datę z przyszłości
 
--w polu email można wpisać dane bez znaku @. System nie pozwala dodać takiego nieprawidłowego adresu email ale pokazuje komunikat "Nie udało się dodać gracza" zamiast informacji "Niepoprawny email"
+-w polu "Email" można wpisać dane bez znaku @. System nie pozwala dodać takiego nieprawidłowego adresu email ale pokazuje komunikat "Nie udało się dodać gracza" zamiast informacji "Niepoprawny email"
 
--wydaje mi się, że w polu 'Główna pozycja' powinna być lista rozwijana z której użytkownik mógłby wybrać jedną pozycję, uniemożliwiłoby to wpisywanie abstrakcyjnych danych
+-wydaje mi się, że w polu "Główna pozycja" powinna być lista rozwijana z której użytkownik mógłby wybrać jedną pozycję, uniemożliwiłoby to wpisywanie abstrakcyjnych danych
 
--w polu 'Link do YouTube' można dodać dowolny link, system nie sprawdza czy jest to link do YT czy inny
+-w polu "Link do YouTube" można dodać dowolny link, system nie sprawdza czy jest to link do YT czy inny
 
--w polu 'profil facebook' system akceptuje dowolne dane np ciąg dowolnych liter "sda", czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
+-w polu "profil facebook" system akceptuje dowolne dane np ciąg dowolnych liter "sda", czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
 
 4. Wydaje mi się, że brakuje regulaminu, polityki prywatności
 
