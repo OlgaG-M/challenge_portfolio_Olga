@@ -15,7 +15,7 @@ Moje oczekiwania wobec projektu: motywacja do regularnej nauki, wsparcie mentor�
 ## Subtask 4
 *1.Na czym polega ta aplikacja? Do czego służy?*
 
-  Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie oraz dodawanie do systemu wskaźników, umiejętności i pozycje zawodników.
+  Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie oraz dodawanie do systemu wskaźników, umiejętności i pozycji zawodników.
   
 
 *2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*
