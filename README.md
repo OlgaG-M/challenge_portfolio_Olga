@@ -73,5 +73,5 @@ Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wąt
 
 -w polu "profil facebook" system akceptuje dowolne dane np ciąg dowolnych liter "sda", czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
 
-4. Wydaje mi się, że brakuje regulaminu, polityki prywatności
+4.Wydaje mi się, że brakuje regulaminu, polityki prywatności
 
