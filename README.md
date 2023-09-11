@@ -20,37 +20,35 @@ Moje oczekiwania wobec projektu: motywacja do regularnej nauki, wsparcie mentor�
 
 *2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*
 
--Logowanie do systemu, intuicyjne, nic bym nie zmieniła
+-Funkcjonalność "Logowanie do systemu", intuicyjne, nic bym nie zmieniła
 
--Funkcja "przypomnij hasło" w panelu logowania: służy do odzyskania hasła do logowania. Hasło przysyłane jest na email, którym user się loguje. Intuicyjne, nic bym nie zmieniła
+-Funkcjonalność "Przypomnij hasło" w panelu logowania: służy do odzyskania hasła do logowania. Hasło przysyłane jest na email, którym user się loguje. Intuicyjne, nic bym nie zmieniła
 
--Wylogowanie z systemu, intuicyjne, nic bym nie zmieniła
+-Funkcjonalność "Wylogowanie z systemu", intuicyjne, nic bym nie zmieniła
 
--Zmiana języka podczas logowania: ta opcja daje wybór używania aplikacji w języku polskim lub angielskim i jest dostępna na stronie logowania,a także na stronie głównej po zalogowaniu się. Zmieniłabym znaki chińskie przy tej opcji np na flagę PL i GBR
+-Funkcjonalność "Zmiana języka podczas logowania": ta opcja daje wybór używania aplikacji w języku polskim lub angielskim i jest dostępna na stronie logowania,a także na stronie głównej po zalogowaniu się. Zmieniłabym znaki chińskie przy tej opcji np na flagę PL i GBR
 
--Scouts Panel opisany jako "Panel zarządzania graczami, meczami i do tworzenia raportów". Klikając na link DEV TEAM CONTACT strona przekierowuje na stronę logowania do slack'a zamiast do opisanego panelu
+-Funkcja "Wyświetlanie listy graczy": lista graczy pokazuje następujące dane zawodników: imię,nazwisko, wiek, pozycja, klub, recenzja, mecze, raporty. Nie podoba mi się, że aby zobaczyć wszystkie dane muszę przewijać ekran w poziomie, zmieniłabym tą tabele aby była widoczna w całości na ekranie
 
--Funkcja "Gracze": lista graczy podająca następujące dane zawodników: imię,nazwisko, wiek, pozycja, klub, recenzja, mecze, raporty. Nie podoba mi się, że aby zobaczyć wszystkie dane muszę przewijać ekran w poziomie, zmieniłabym tą tabele aby była widoczna w całości na ekranie
+-Funkcjonaloność 'Download CSV': umożliwia ściągnięcie raportu o zawodnikach w formacie CSV
 
--Funkcja 'Download CSV': umożliwia ściągnięcie raportu w formacie CSV
+-Funkcjonalność 'Print': umożliwia wydruk raportu
 
--Funkcja 'Print': umożliwia wydruk raportu
+-Funkcjonalność 'View columns': umożliwia dostosowanie raportu do potrzeb użytkownika. Można ustawić wszystkie kolumny jako widoczne lub ukryć wybrane kolumny
 
--Funkcja 'View columns': umożliwia dostosowanie raportu do potrzeb użytkownika. Można ustawić wszystkie kolumny jako widoczne lub ukryć wybrane kolumny
+-Funkcjonalność 'Filter Table': umożliwia filtrowanie danych w tabeli używając imienia, nazwiska, wieku, pozycji, nazwy klubu, recenzji
 
--Funkcja 'Filter Table': umożliwia filtrowanie danych w tabeli używając imienia, nazwiska, wieku, pozycji, nazwy klubu, recenzji
-
--Funkcja 'Dodaj gracza' znajdująca się w sekcji Linki pomocnicze umożliwia dodanie nowego zawodnika piłki nożnej do systemu
+-Funkcjonalność "Możliwość dodanie nowego gracza' znajdująca się w sekcji Linki pomocnicze, umożliwia dodanie nowego zawodnika piłki nożnej do systemu
 
 
 *3.Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*
 
-Nie podoba mi się interfejs aplikacji. Nieciekawa wizualnie
+Nie podoba mi się interfejs aplikacji. Nieciekawy wizualnie.
 
 
 *4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*
 
-Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wątpliwości- czy opisuje moją aktywność czy aktywność innych użytkowników.
+Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wątpliwości- czy opisuje tylko moją aktywność czy również aktywność innych użytkowników.
 
 
 *5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)*
@@ -73,7 +71,7 @@ Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wąt
 
 -w polu 'Link do YouTube' można dodać dowolny link, system nie sprawdza czy jest to link do YT czy inny
 
--w polu 'pofil facebook' system akceptuje dowolne dane np "sda" czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
+-w polu 'profil facebook' system akceptuje dowolne dane np ciąg dowolnych liter "sda", czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
 
 4. Wydaje mi się, że brakuje regulaminu, polityki prywatności
 
