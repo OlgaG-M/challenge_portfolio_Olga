@@ -78,6 +78,7 @@ Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wąt
 # TASK 2
 
 ## Subtask 1
+[link do subtask'a 1](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
 
 ## Subtask 2
 
