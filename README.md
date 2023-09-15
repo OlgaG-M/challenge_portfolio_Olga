@@ -10,7 +10,7 @@ Cześć! Jestem Olga. Zdecydowałam się na udział w challenge portfolio aby do
 
 Moim celem jest stworzenie imponującego portfolio, dzięki któremu otrzymam pierwszą pracę na stanowisku testerskim.
 
-Moje oczekiwania wobec projektu: motywacja do regularnej nauki, wsparcie mentorów, przełożenie teorii na praktykę, zwieńczenie 7 tygodniowego wyzwania pięknym portfolio oraz gotowością do rekrutacji i podjęcia pracy!
+Moje oczekiwania wobec projektu: motywacja do regularnej nauki, wsparcie mentorów, przełożenie teorii na praktykę, zwieńczenie 7 tygodniowego wyzwania pięknym portfolio oraz gotowością do rekrutacji i podjęcia pracy! 
 
 ## Subtask 4
 *1.Na czym polega ta aplikacja? Do czego służy?*
@@ -84,11 +84,11 @@ Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wąt
 ## Subtask 3
 WHY DO WE WRITE TEST CASES?
 
-1.In order to ensure software works correctly, meet requirements and behaves as expected 
+- In order to ensure software works correctly, meet requirements and behaves as expected 
 
-2.It is helpful identifying and eliminating errors 
+- It is helpful identifying and eliminating errors 
 
-3.Test cases can help us increasing the product quality 
+- Test cases can help us increasing the product quality 
 
-
+  
 
