@@ -75,3 +75,20 @@ Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wąt
 
 4.Wydaje mi się, że brakuje regulaminu, polityki prywatności
 
+# TASK 2
+
+## Subtask 1
+
+## Subtask 2
+
+## Subtask 3
+WHY DO WE WRITE TEST CASES?
+
+1.In order to ensure software works correctly, meet requirements and behaves as expected 
+
+2.It is helpful identifying and eliminating errors 
+
+3.Test cases can help us increasing the product quality 
+
+
+
