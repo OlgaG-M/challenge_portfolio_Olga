@@ -10,7 +10,15 @@ Cześć! Jestem Olga. Zdecydowałam się na udział w challenge portfolio aby do
 
 Moim celem jest stworzenie imponującego portfolio, dzięki któremu otrzymam pierwszą pracę na stanowisku testerskim.
 
-Moje oczekiwania wobec projektu: motywacja do regularnej nauki, wsparcie mentorów, przełożenie teorii na praktykę, zwieńczenie 7 tygodniowego wyzwania pięknym portfolio oraz gotowością do rekrutacji i podjęcia pracy! 
+Moje oczekiwania wobec projektu: 
+
+-motywacja do regularnej nauki 💪, 
+
+-wsparcie mentorów 👼,
+
+-przełożenie teorii na praktykę 👩‍🎓 , 
+
+-zwieńczenie 7 tygodniowego wyzwania pięknym portfolio oraz gotowością do rekrutacji i podjęcia pracy!❤ ✊
 
 ## Subtask 4
 *1.Na czym polega ta aplikacja? Do czego służy?*
