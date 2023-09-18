@@ -78,7 +78,7 @@ Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wąt
 # TASK 2
 
 ## Subtask 1
-[link do subtask'a 1](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
+[link to subtask 1](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
 
 ## Subtask 2
 [link to Subtask 2](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
@@ -88,11 +88,13 @@ WHY DO WE WRITE TEST CASES?
 - In order to ensure software works correctly, meet requirements and behaves as expected 
 
 - It is helpful identifying and eliminating errors
-
+  
+- Test cases can help us increasing the product quality
+  
 ## Subtask 4
   [link to Subtask 4](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit#gid=0)
 
-- Test cases can help us increasing the product quality 
+
 
   
 
