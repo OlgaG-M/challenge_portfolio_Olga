@@ -98,7 +98,14 @@ WHY DO WE WRITE TEST CASES?
 - It is helpful identifying and eliminating errors
   
 - Test cases can help us increasing the product quality
-  
+
+- It is a knowledge database regarding an application
+
+- Test cases gives a possibility of repeating, documented testing
+
+- While creating test cases we can prepare test data
+
+- Test cases gives possibility of version control (thanks to changes in test cases, we can check the history of changes within functionalities)
 ## Subtask 4
   [link to Subtask 4](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit#gid=0)
 
