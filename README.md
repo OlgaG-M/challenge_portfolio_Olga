@@ -51,12 +51,12 @@ Moje oczekiwania wobec projektu:
 
 *3.Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*
 
-Nie podoba mi się interfejs aplikacji. Nieciekawy wizualnie.
+Nie podoba mi się interfejs aplikacji. Nieciekawy wizualnie, niedopracowany. Uważam, że brakuje notyfikacji typu wyskakująca chmurka, informująca do czego służy dana funkcja. 
 
 
 *4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*
 
-Aplikacja jest reczej intuicyjna aczkolwiek sekcja 'Aktywność' budzi moje wątpliwości- czy opisuje tylko moją aktywność czy również aktywność innych użytkowników.
+Aplikacja nie jest intuicyjna, jest mało czytelna. Np.: sekcja 'Aktywność' budzi moje wątpliwości- czy opisuje tylko moją aktywność czy również aktywność innych użytkowników.
 
 
 *5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)*
