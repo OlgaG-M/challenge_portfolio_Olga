@@ -109,6 +109,17 @@ WHY DO WE WRITE TEST CASES?
 ## Subtask 4
   [link to Subtask 4](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit#gid=0)
 
+  # TASK 3
+
+  ## Subtask 1 & 2
+  [link to Subtask 1&2](https://docs.google.com/spreadsheets/d/1nz_T45o7ZRS5185DuLPUhqPCMWlNNJOdEDNHgiPVzOk/edit?usp=drive_link)
+
+  ## Subtast 3
+  [link to Subtask 3](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
+  
+  
+
+
 
 
   
