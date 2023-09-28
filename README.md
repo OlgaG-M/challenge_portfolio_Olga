@@ -107,7 +107,7 @@ WHY DO WE WRITE TEST CASES?
 
 - Test cases gives possibility of version control (thanks to changes in test cases, we can check the history of changes within functionalities)
 ## Subtask 4
-  [link to Subtask 4](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit#gid=0)
+  [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit#gid=0)
 
   # TASK 3
 
