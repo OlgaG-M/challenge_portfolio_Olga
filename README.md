@@ -86,7 +86,7 @@ Aplikacja nie jest intuicyjna, jest mało czytelna. Np.: sekcja 'Aktywność' bu
 # TASK 2
 
 ## Subtask 1
-[link to subtask 1](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
+[Test cases based on user stories](https://docs.google.com/spreadsheets/d/1z9CauOVjWSE9k2EN3IC2ioWue8CZauHWuFPEwzzLzi0/edit?usp=drive_link)
 
 ## Subtask 2
 [link to Subtask 2](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
