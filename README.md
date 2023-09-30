@@ -109,18 +109,23 @@ WHY DO WE WRITE TEST CASES?
 ## Subtask 4
   [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit#gid=0)
 
-  # TASK 3
+# TASK 3
 
-  ## Subtask 1 & 2
+## Subtask 1 & 2
   [Bugs report](https://docs.google.com/spreadsheets/d/1nz_T45o7ZRS5185DuLPUhqPCMWlNNJOdEDNHgiPVzOk/edit?usp=drive_link)
 
-  ## Subtast 3
+## Subtast 3
   [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
   
-  ## Subtask 4
+## Subtask 4
   [Test cases based on "Guidebook tour" exploratory testimg session](https://docs.google.com/spreadsheets/d/1ajBTaI03hbp6EjGXFVksARfjW24qD8FeraD_K8IACrI/edit?fbclid=IwAR1mKqOwuYSU144t5l0OrcjbFAcGcC1aGHIkLG4hpb8NIa8YQVw4GV63cm0#gid=0)
 
+# TASK 4
 
+## Subtask 1&2
+[Bug report OLX](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
+
+## Subtask 3
 
 
   
