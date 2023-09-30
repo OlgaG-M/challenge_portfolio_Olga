@@ -127,6 +127,32 @@ WHY DO WE WRITE TEST CASES?
 
 ## Subtask 3
 
+*Do czego służy aplikacja OLX? Jaki jest cel tej aplikacji?*
 
+Aplikacja służy do kupowania rzeczy, usług oraz dodawania ogłoszeń w kategoriach: Antyki i Kolekcje, Motoryzacja, Nieruchmości, Praca, Dom i Ogród, Elektronika, Moda, Rolnictwo, Zwierzęta, Dla Dzieci, Sport i Hobby, Muzyka i Edukacja, Zdrowie i Uroda, Usługi, Noclegi, Wypożyczalnia, Dla Firm, Outlet i Oddam za darmo.
+
+Celem aplikacji jest zarabianie. OLX zarabia na ogłoszeniach w płatnych kategoriach takich jak: Nieruchomości, Motoryzacja i Praca, na opłatach serwisowych, opłatach za możliwość promowania produktu, na reklamach płatnych
+
+
+*Kto ma być użytkownikiem końcowym aplikacji?*
+
+Ludzie mieszkający w Polsce (aplikacja jest dostępna jedynie w języku polskim). OLX jest dedykowany zarówno dla indywidualnych klietnów oraz dla firm
+
+
+*Czy według Ciebie aplikacja jest user friendly?*
+
+Moim zdaniem aplikacja OLX jest przyjazna dla użytkownika:
+
+- łatwy i szybki proces instalacji aplikacji na telefonie oraz rejestracji/logowania, jest prosta w obłudze;
+- Efektywna = duża łatwość wykonywania zadań przez użytkownika znającego już interfejs witryny;
+- Zapamiętywalna = użytkownik szybko nabywa umiejętności poruszania się po witrynie i łatwość zapamiętuje obsługę nawet po dłuższym czasie nieobecności na niej;
+- przyjemna w użytkowaniu poprzez: -szybkie ładowanie strony, -intuicyjną nawigację, -architekturę informacji (logiczne i uporządkowane informacje w witrynie), -czytelną treść i jakościowy content, -przemyślany interfejs i formularze (użytkownik ma do wykonania jak najmniej zadań), -wyszukiwarka ułatwia użytkownikowi odnalezienie konkretnej informacji/rzeczy i oszczędza jego cenny czas dzieki wyświetlającym się "proponowanym wyszukiwaniom" oraz opcji filtrowania, lupka znajduje się w widocznym miejscu, na górnej belce
+ 
+
+*Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*
+
+Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunikatorów i social mediów użytkownicy są przyzwyczajeni do możliwości nawiązania kontaktu 24h/dobę, dlatego rozważyłabym implementację chatu czy messengera w witrynie lub przynajmniej dobrze widocznego przycisku "Napisz do nas". W tym momencie trzeba wejść w sekcję "Konto", przewinąć stronę, a następnie kliknąć "Pomoc". Przycisk Pomoc przekierowuje do strony w której jest dużo kategorii, które trzeba przeczytać żeby wybrać dotyczącą nas. 
+
+*Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
   
 
