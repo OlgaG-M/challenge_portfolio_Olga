@@ -124,6 +124,12 @@ WHY DO WE WRITE TEST CASES?
 
 ## Subtask 1&2
 [Bug report OLX](https://docs.google.com/spreadsheets/d/1ytfrn4Ueni4n9h-oKC76BySwvrTAUrQJYDt2WXThYJQ/edit?usp=drive_link)
+During 3hours testing I have found only 2 bugs. To be more precise: one bug and one inconvenience.
+On my phone: Realme GT Master Edition with Adroid 13 the OLX app works very well. 
+-I was able to easily install it and login,
+-Menu options, buttons, history, settings, links and navigation flow of the application worked perfectly fine,
+-Expected notifications were displayed within the forms,
+-No issues while rotating the phone, I was able to take and make calls as well as take the messages
 
 ## Subtask 3
 
