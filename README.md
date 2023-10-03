@@ -155,10 +155,10 @@ Ludzie mieszkający w Polsce (aplikacja jest dostępna jedynie w języku polskim
 
 Moim zdaniem aplikacja OLX jest przyjazna dla użytkownika:
 
-- łatwy i szybki proces instalacji aplikacji na telefonie oraz rejestracji/logowania, jest prosta w obłudze;
+- Łatwy i szybki proces instalacji aplikacji na telefonie oraz rejestracji/logowania, jest prosta w obsłudze;
 - Efektywna = duża łatwość wykonywania zadań przez użytkownika znającego już interfejs witryny;
-- Zapamiętywalna = użytkownik szybko nabywa umiejętności poruszania się po witrynie i łatwość zapamiętuje obsługę nawet po dłuższym czasie nieobecności na niej;
-- przyjemna w użytkowaniu poprzez: -szybkie ładowanie strony, -intuicyjną nawigację, -architekturę informacji (logiczne i uporządkowane informacje w witrynie), -czytelną treść i jakościowy content, -przemyślany interfejs i formularze (użytkownik ma do wykonania jak najmniej zadań), -wyszukiwarka ułatwia użytkownikowi odnalezienie konkretnej informacji/rzeczy i oszczędza jego cenny czas dzieki wyświetlającym się "proponowanym wyszukiwaniom" oraz opcji filtrowania, lupka znajduje się w widocznym miejscu, na górnej belce
+- Zapamiętywalna = użytkownik szybko nabywa umiejętności poruszania się po witrynie i łatwo zapamiętuje obsługę nawet po dłuższym czasie nieobecności na niej;
+- przyjemna w użytkowaniu poprzez: -szybkie ładowanie strony, -intuicyjną nawigację, -architekturę informacji (logiczne i uporządkowane informacje w witrynie), -czytelną treść i jakościowy content, -przemyślany interfejs i formularze (użytkownik ma do wykonania jak najmniej zadań), -wyszukiwarka ułatwia użytkownikowi odnalezienie konkretnej informacji/rzeczy i oszczędza jego cenny czas dzięki wyświetlającym się "proponowanym wyszukiwaniom" oraz opcji filtrowania, lupka znajduje się w widocznym miejscu, na górnej belce
  
 
 *Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*
