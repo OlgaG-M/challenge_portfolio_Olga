@@ -155,4 +155,5 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
 
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
   
-
+## Subtask 4
+[link to Jira](https://olgagrzywa.atlassian.net/jira/software/projects/DCP/boards/3/backlog)
