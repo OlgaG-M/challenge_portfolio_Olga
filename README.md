@@ -167,7 +167,7 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
 
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
 
-|Aplikacja Webowa                               | Aplikacja Mobilna                                 |
+|#Aplikacja Webowa                              | #Aplikacja Mobilna                                |
 |-----------------------------------------------|---------------------------------------------------|
 |Przeglądarki: wygląd i funkcjonalność          |Wykonywanie i przyjmowanie połączeń i wiadomości   |
 |Rozdzielczości: wygląd i funkcjonalność        |Zmiany lokalizacji                                 |
@@ -176,6 +176,7 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
 |Odporność na brak sieci                        |Przełączanie punktów dostępowych np. z wifi na LTE |
 |Wydajność                                      |Tryb oszczędzania energii                          |
 |Bezpieczeństwo: SQL injection, Script Injection|Energooszczędność                                  |
+
 
   
 ## Subtask 4
