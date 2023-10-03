@@ -176,7 +176,7 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
 |Odporność na brak sieci                        |Przełączanie punktów dostępowych np. z wifi na LTE |
 |Wydajność                                      |Tryb oszczędzania energii                          |
 |Bezpieczeństwo: SQL injection, Script Injection|Energooszczędność                                  |
-|---------------------------------------------------------------------------------------------------|
+
   
 ## Subtask 4
 [link to Jira](https://olgagrzywa.atlassian.net/jira/software/projects/DCP/boards/3/backlog)
