@@ -166,6 +166,25 @@ Moim zdaniem aplikacja OLX jest przyjazna dla użytkownika:
 Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunikatorów i social mediów użytkownicy są przyzwyczajeni do możliwości nawiązania kontaktu 24h/dobę, dlatego rozważyłabym implementację chatu czy messengera w witrynie lub przynajmniej dobrze widocznego przycisku "Napisz do nas". W tym momencie trzeba wejść w sekcję "Konto", przewinąć stronę, a następnie kliknąć "Pomoc". Przycisk Pomoc przekierowuje do strony w której jest dużo kategorii, które trzeba przeczytać żeby wybrać dotyczącą nas. 
 
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
+
+|Aplikacja Webowa                               | Aplikacja Mobilna                                 |
+|-----------------------------------------------|---------------------------------------------------|
+|Przeglądarki: wygląd i funkcjonalność          |Wykonywanie i przyjmowanie połączeń i wiadomości   |
+|Rozdzielczości: wygląd i funkcjonalność        |Zmiany lokalizacji                                 |
+|Responsywność: wygląd i funkcjonalność         |Obracanie                                          |
+|Tytuł, Favicon, social media                   |Jakość połączenia                                  |
+|Odporność na brak sieci                        |Przełączanie punktów dostępowych np. z wifi na LTE |
+|Wydajność                                      |Tryb oszczędzania energii                          |
+|Bezpieczeństwo: SQL injection, Script Injection|Energooszczędność                                  |
+|---------------------------------------------------------------------------------------------------|
+W aplikacji
+•Wykonywanie i przyjmowanie połączeń i wiadomości
+•Zmiany lokalizacji
+•Obracanie
+•Jakość połączenia
+•Przełączanie punktów dostępowych np. z wifi na LTE
+•Tryb oszczędzania energii
+•Energooszczędność
   
 ## Subtask 4
 [link to Jira](https://olgagrzywa.atlassian.net/jira/software/projects/DCP/boards/3/backlog)
