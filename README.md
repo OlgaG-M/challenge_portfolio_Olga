@@ -129,13 +129,13 @@ During 3hours testing I have found only 2 bugs. To be more precise: one bug and 
 
 On my phone: Realme GT Master Edition with Adroid 13 the OLX app works very well. 
 
--I was able to easily install it and login,
+👉I was able to easily install it and login,
 
--Menu options, buttons, history, settings, links and navigation flow of the application worked perfectly fine,
+👉Menu options, buttons, history, settings, links and navigation flow of the application worked perfectly fine,
 
--Expected notifications were displayed within the forms,
+👉Expected notifications were displayed within the forms,
 
--No issues while rotating the phone, I was able to take and make calls as well as take the messages
+👉No issues while rotating the phone, I was able to take and make calls as well as take the messages
 
 ## Subtask 3
 
