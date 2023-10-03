@@ -167,7 +167,8 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
 
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
 
-|#Aplikacja Webowa                              | #Aplikacja Mobilna                                |
+
+|💻Aplikacja Webowa                            | 📱  Aplikacja Mobilna                              |
 |-----------------------------------------------|---------------------------------------------------|
 |Przeglądarki: wygląd i funkcjonalność          |Wykonywanie i przyjmowanie połączeń i wiadomości   |
 |Rozdzielczości: wygląd i funkcjonalność        |Zmiany lokalizacji                                 |
