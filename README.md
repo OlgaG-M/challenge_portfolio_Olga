@@ -182,3 +182,11 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
   
 ## Subtask 4
 [link to Jira](https://olgagrzywa.atlassian.net/jira/software/projects/DCP/boards/3/backlog)
+
+# TASK 5
+
+## Subtask 1
+
+Operatory/zapytania SQL jakich się nauczyłam
+
+## Subtask 3
