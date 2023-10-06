@@ -191,5 +191,4 @@ Operatory/zapytania SQL jakich się nauczyłam
 
 ## Subtask 3
 
-![image](https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/12c91345-4904-4ecf-ba41-7f97dccd40aa)
 
