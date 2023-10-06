@@ -168,7 +168,7 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
 *Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
 
 
-|💻Aplikacja Webowa                            | 📱  Aplikacja Mobilna                              |
+|💻Aplikacja Webowa                             | 📱  Aplikacja Mobilna                             |
 |-----------------------------------------------|---------------------------------------------------|
 |Przeglądarki: wygląd i funkcjonalność          |Wykonywanie i przyjmowanie połączeń i wiadomości   |
 |Rozdzielczości: wygląd i funkcjonalność        |Zmiany lokalizacji                                 |
@@ -189,26 +189,15 @@ Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunik
 
 Operatory/zapytania SQL jakich się nauczyłam?
 
-OPERACJE NA TABELI:
--select, 
--insert,
--update, 
--delete, 
--alter, 
--drop
+|OPERACJE NA TABELI:    |OPERATORY:             |FUNKCJE:              |
+|-----------------------|-----------------------|----------------------|
+|-select,               |-operator porównania,  |-having, group by     |
+|-insert,               |-operator SQL          |-data i czas          |
+|-update,               |-operatory logiczne    |-funkcje tekstowe     |
+|-delete,               |-operator arytmetyczny,|-funkcje matematyczne |
+|-alter,                |-sortowanie wyników                         
+|-drop                  |                                            
 
-OPERATORY:
--operator porównania, 
--operator SQL, 
--operatory logiczne, 
--operator arytmetyczny, 
--sortowanie wyników
-
-FUNKCJE:
--having, group by
--data i czas
--funkcje tekstowe
--funkcje matematyczne
 
 ## Subtask 3
 
