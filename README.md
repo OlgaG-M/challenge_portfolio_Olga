@@ -78,7 +78,9 @@ __*5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz s
 1.Scouts Panel  opisany jako "Panel zarządzania graczami, meczami i do tworzenia raportów" nie ma linka przekierowującego do panelu,a jednynie kieruje na stronę komunikatora slack
 
 
+
 2.Uważam, że błędem jest to, że mogę modyfikować dane wszystkich zawodników w sekcji 'Gracze'. Wydaje mi się, że prawo do modyfikacji powinien mieć tylko użytkownik który dodał zawodnika lub ewentualnie jeśli ja wprowadzam zmianę to zanim ta zmiana pojawi się w systemie to dobrze aby musiała być zaakceptowana przez osobę, która stworzyła profil gracza
+
 
   
 3.Podczas dodawania nowego zawodnika i edycji danych zawodnika zauważyłam błędy w niżej wymienionych polach:
@@ -98,7 +100,9 @@ __*5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz s
 - w polu "profil facebook" system akceptuje dowolne dane np ciąg dowolnych liter "sda", czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
 
 
+
 4.Wydaje mi się, że brakuje regulaminu, polityki prywatności
+
 
 # TASK 2
 
@@ -123,6 +127,8 @@ __WHY DO WE WRITE TEST CASES?__
 - While creating test cases we can prepare test data
 
 - Test cases gives possibility of version control (thanks to changes in test cases, we can check the history of changes within functionalities)
+
+  
 ## Subtask 4
   [Test cases Pick Eat Up application](https://docs.google.com/spreadsheets/d/15VfjP6AsxuIDrHiARE14TpvZYTjIqo8LWIOzHe5AiLE/edit#gid=0)
 
@@ -161,6 +167,7 @@ __*Do czego służy aplikacja OLX? Jaki jest cel tej aplikacji?*__
 Aplikacja jest serwisem ogłoszeniowym. Służy do kupowania rzeczy, usług oraz dodawania ogłoszeń w kategoriach: Antyki i Kolekcje, Motoryzacja, Nieruchmości, Praca, Dom i Ogród, Elektronika, Moda, Rolnictwo, Zwierzęta, Dla Dzieci, Sport i Hobby, Muzyka i Edukacja, Zdrowie i Uroda, Usługi, Noclegi, Wypożyczalnia, Dla Firm, Outlet i Oddam za darmo.
 
 Aplikacja OLX posiada poniższe funkcje:
+
 📱 przeglądanie ogłoszeń,
 📱 dodawanie ogłoszeń,
 📱 dodawanie zdjęć,
