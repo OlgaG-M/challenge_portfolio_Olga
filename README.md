@@ -209,19 +209,42 @@ Operatory/zapytania SQL jakich się nauczyłam?
 
 2.Wyświetl film, który powstał w 2019 roku.
 
+<img width="486" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/ad63195f-de51-4187-a095-e5ef5b1c975a">
+
+
 3.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+<img width="467" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/0fc380b2-bd6c-4fc7-a6a5-c82275ff6009">
+
 
 4.Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
+<img width="463" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/fd650c6c-0c0c-4d6d-a982-fe3c48ed4cf5">
+
+
 5.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
+
+
 6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+<img width="449" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/0d9d0038-5915-4ecf-9f0f-64e83d7c75f1">
+
 
 7.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 
 8.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
+<img width="469" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/7584b991-8e7c-403b-81f4-c9484947cabd">
+
+
 9.Wyświetl dane klienta, który nie ma podanego adresu email.
 
+<img width="457" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/e3ba4fa8-75ef-4725-89f5-5a1b2b27a8cd">
+
+
 10.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+<img width="469" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/d32ed401-03ca-46e0-88d8-ead8791629d3">
+
 
