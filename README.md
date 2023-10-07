@@ -203,6 +203,10 @@ Operatory/zapytania SQL jakich się nauczyłam?
 
 1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
+![image](https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/a5cd0942-7a4a-4b74-89c6-5b47d3a95ffd)
+
+
+
 2.Wyświetl film, który powstał w 2019 roku.
 
 3.Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
