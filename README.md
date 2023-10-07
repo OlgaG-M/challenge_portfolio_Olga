@@ -26,6 +26,7 @@ __*1.Na czym polega ta aplikacja? Do czego służy?*__
 FUTBOL KOLEKTYW jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie oraz dodawanie do systemu wskaźników, umiejętności i pozycji zawodników. Ma za zadanie zarabiać pieniądze poprzez zbieranie danych na temat zawodników piłki nożnej.
   
 
+
 __*2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*__
 
 -Funkcjonalność "Logowanie do systemu", intuicyjne, nic bym nie zmieniła
@@ -57,10 +58,13 @@ __*2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy s
 
 -Funkcjonalność "+DODAJ RAPORT": powinna umożliwiać utworzenie raportu, niestety funkcjonalność nie działa w tym momencie lecz błędnie przekierowuje do sekcji dodaj mecz
 
+
+
 __*3.Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*__
 
 
 Nie podoba mi się interfejs aplikacji ponieważ jest nieciekawy wizualnie, niedopracowany. Uważam, że brakuje notyfikacji typu wyskakująca chmurka, informująca do czego służy dana funkcja. 
+
 
 
 __*4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*__
@@ -68,27 +72,31 @@ __*4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze 
 Aplikacja nie jest intuicyjna, jest mało czytelna. Np.: sekcja 'Aktywność' budzi moje wątpliwości- czy opisuje tylko moją aktywność czy również aktywność innych użytkowników.
 
 
+
 __*5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)*__
 
 1.Scouts Panel  opisany jako "Panel zarządzania graczami, meczami i do tworzenia raportów" nie ma linka przekierowującego do panelu,a jednynie kieruje na stronę komunikatora slack
 
+
 2.Uważam, że błędem jest to, że mogę modyfikować dane wszystkich zawodników w sekcji 'Gracze'. Wydaje mi się, że prawo do modyfikacji powinien mieć tylko użytkownik który dodał zawodnika lub ewentualnie jeśli ja wprowadzam zmianę to zanim ta zmiana pojawi się w systemie to dobrze aby musiała być zaakceptowana przez osobę, która stworzyła profil gracza
+
   
 3.Podczas dodawania nowego zawodnika i edycji danych zawodnika zauważyłam błędy w niżej wymienionych polach:
    
--w polu "Telefon" można wpisać litery i znaki specjalne, nie ma ograniczenia do liczb
+- w polu "Telefon" można wpisać litery i znaki specjalne, nie ma ograniczenia do liczb
 
--w polach "Waga" i "Wzrost" dozwolone są ujemne liczby
+- w polach "Waga" i "Wzrost" dozwolone są ujemne liczby
 
--w polu "Data urodzenia" można wybrać datę z przyszłości
+- w polu "Data urodzenia" można wybrać datę z przyszłości
 
--w polu "Email" można wpisać dane bez znaku @. System nie pozwala dodać takiego nieprawidłowego adresu email ale pokazuje komunikat "Nie udało się dodać gracza" zamiast informacji "Niepoprawny email"
+- w polu "Email" można wpisać dane bez znaku @. System nie pozwala dodać takiego nieprawidłowego adresu email ale pokazuje komunikat "Nie udało się dodać gracza" zamiast informacji "Niepoprawny email"
 
--wydaje mi się, że w polu "Główna pozycja" powinna być lista rozwijana z której użytkownik mógłby wybrać jedną pozycję, uniemożliwiłoby to wpisywanie abstrakcyjnych danych
+- wydaje mi się, że w polu "Główna pozycja" powinna być lista rozwijana z której użytkownik mógłby wybrać jedną pozycję, uniemożliwiłoby to wpisywanie abstrakcyjnych danych
 
--w polu "Link do YouTube" można dodać dowolny link, system nie sprawdza czy jest to link do YT czy inny
+- w polu "Link do YouTube" można dodać dowolny link, system nie sprawdza czy jest to link do YT czy inny
 
--w polu "profil facebook" system akceptuje dowolne dane np ciąg dowolnych liter "sda", czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
+- w polu "profil facebook" system akceptuje dowolne dane np ciąg dowolnych liter "sda", czyli nie sprawdza czy użytkownik dodaje profil facebook czy inne informacje 
+
 
 4.Wydaje mi się, że brakuje regulaminu, polityki prywatności
 
