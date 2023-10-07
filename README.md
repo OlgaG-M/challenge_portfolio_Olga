@@ -224,6 +224,7 @@ Operatory/zapytania SQL jakich się nauczyłam?
 
 5.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
+<img width="411" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/46fa5642-d1bb-4e22-8936-66009726b038">
 
 
 6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
