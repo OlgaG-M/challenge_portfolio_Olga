@@ -191,11 +191,11 @@ Operatory/zapytania SQL jakich się nauczyłam?
 
 |OPERACJE NA TABELI:    |OPERATORY:             |FUNKCJE:              |
 |-----------------------|-----------------------|----------------------|
-|-select,               |-operator porównania,  |-having, group by     |
-|-insert,               |-operator SQL          |-data i czas          |
-|-update,               |-operatory logiczne    |-funkcje tekstowe     |
-|-delete,               |-operator arytmetyczny,|-funkcje matematyczne |
-|-alter,                |-sortowanie wyników                         
+|-select                |-operator porównania   |-having, group by     |
+|-insert                |-operator SQL          |-data i czas          |
+|-update                |-operatory logiczne    |-funkcje tekstowe     |
+|-delete                |-operator arytmetyczny |-funkcje matematyczne |
+|-alter                 |-sortowanie wyników                         
 |-drop                  |                                            
 
 
