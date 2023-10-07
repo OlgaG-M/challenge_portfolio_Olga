@@ -233,6 +233,9 @@ Operatory/zapytania SQL jakich się nauczyłam?
 
 7.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 
+<img width="446" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/96b5ca54-ed3a-4f43-881c-11137db67684">
+
+
 8.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
 <img width="469" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/7584b991-8e7c-403b-81f4-c9484947cabd">
