@@ -203,7 +203,7 @@ Operatory/zapytania SQL jakich się nauczyłam?
 
 1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
-![image](https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/a5cd0942-7a4a-4b74-89c6-5b47d3a95ffd)
+<img width="595" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/da6b6079-36ed-4562-986f-74a121f1e96c">
 
 
 
