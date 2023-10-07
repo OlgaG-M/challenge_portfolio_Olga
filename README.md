@@ -23,7 +23,7 @@ Moje oczekiwania wobec projektu:
 ## Subtask 4
 *1.Na czym polega ta aplikacja? Do czego służy?*
 
-Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie oraz dodawanie do systemu wskaźników, umiejętności i pozycji zawodników. Ma za zadanie zarabiać pieniądze poprzez zbieranie danych na temat zawodników piłki nożnej.
+FUTBOL KOLEKTYW jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie oraz dodawanie do systemu wskaźników, umiejętności i pozycji zawodników. Ma za zadanie zarabiać pieniądze poprzez zbieranie danych na temat zawodników piłki nożnej.
   
 
 *2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*
@@ -36,22 +36,31 @@ Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie o
 
 -Funkcjonalność "Zmiana języka podczas logowania": ta opcja daje wybór używania aplikacji w języku polskim lub angielskim i jest dostępna na stronie logowania,a także na stronie głównej po zalogowaniu się. Zmieniłabym znaki chińskie przy tej opcji np na flagę PL i GBR
 
--Funkcjonalność "Wyświetlanie listy graczy": lista graczy pokazuje następujące dane zawodników: imię,nazwisko, wiek, pozycja, klub, recenzja, mecze, raporty. Nie podoba mi się, że aby zobaczyć wszystkie dane muszę przewijać ekran w poziomie, zmieniłabym tą tabele aby była widoczna w całości na ekranie
+-Funkcjonalność "Wyświetlanie listy graczy": lista graczy pokazuje następujące dane zawodników: imię, nazwisko, wiek, pozycja, klub, recenzja, mecze, raporty. Nie podoba mi się, że aby zobaczyć wszystkie dane muszę przewijać ekran w poziomie, zmieniłabym tą tabele aby była widoczna w całości na ekranie
 
--Funkcjonaloność 'Download CSV': umożliwia ściągnięcie raportu o zawodnikach w formacie CSV
+-Funkcjonaloność "Download CSV": umożliwia ściągnięcie raportu o zawodnikach w formacie CSV
 
--Funkcjonalność 'Print': umożliwia wydruk raportu
+-Funkcjonalność "Print": umożliwia wydruk raportu
 
--Funkcjonalność 'View columns': umożliwia dostosowanie raportu do potrzeb użytkownika. Można ustawić wszystkie kolumny jako widoczne lub ukryć wybrane kolumny
+-Funkcjonalność "View columns": umożliwia dostosowanie raportu do potrzeb użytkownika. Można ustawić wszystkie kolumny jako widoczne lub ukryć wybrane kolumny
 
--Funkcjonalność 'Filter Table': umożliwia filtrowanie danych w tabeli używając imienia, nazwiska, wieku, pozycji, nazwy klubu, recenzji
+-Funkcjonalność "Filter Table": umożliwia filtrowanie danych w tabeli używając imienia, nazwiska, wieku, pozycji, nazwy klubu, recenzji
 
--Funkcjonalność "Możliwość dodanie nowego gracza' znajdująca się w sekcji Linki pomocnicze, umożliwia dodanie nowego zawodnika piłki nożnej do systemu
+-Funkcjonalność "Możliwość dodanie nowego gracza" znajdująca się w sekcji Linki pomocnicze, umożliwia dodanie nowego zawodnika piłki nożnej do systemu
 
+-Funkcjonalość "Edycja gracza": umożliwia edycję danych zawartych w profilu gracza
+
+-Funkcjonalość "+DODAJ MECZ": umożliwia dodanie szczegółowych informacji o meczu w którym grał dany zawodnik 
+
+<img width="644" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/c8a72ccf-dcff-44f2-a3b2-827b5efe2149">
+
+
+-Funkcjonalność "+DODAJ RAPORT": powinna umożliwiać utworzenie raportu, niestety funkcjonalność nie działa w tym momencie lecz błędnie przekierowuje do sekcji dodaj mecz
 
 *3.Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*
 
-Nie podoba mi się interfejs aplikacji. Nieciekawy wizualnie, niedopracowany. Uważam, że brakuje notyfikacji typu wyskakująca chmurka, informująca do czego służy dana funkcja. 
+
+Nie podoba mi się interfejs aplikacji ponieważ jest nieciekawy wizualnie, niedopracowany. Uważam, że brakuje notyfikacji typu wyskakująca chmurka, informująca do czego służy dana funkcja. 
 
 
 *4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*
@@ -63,7 +72,7 @@ Aplikacja nie jest intuicyjna, jest mało czytelna. Np.: sekcja 'Aktywność' bu
 
 1.Scouts Panel  opisany jako "Panel zarządzania graczami, meczami i do tworzenia raportów" nie ma linka przekierowującego do panelu,a jednynie kieruje na stronę komunikatora slack
 
-2.Uważam, że błedem jest to, że mogę modyfikować dane zawodników w sekcji 'Gracze'. Wydaje mi się, że prawo do modyfikacji powinien mieć tylko użytkownik który dodał zawodnika lub ewentualnie jeśli ja wprowadzam zmianę to zanim ta zmiana pojawi się w systemie to dobrze aby musiała być zaakceptowana przez osobę, która stworzyła profil gracza
+2.Uważam, że błędem jest to, że mogę modyfikować dane wszystkich zawodników w sekcji 'Gracze'. Wydaje mi się, że prawo do modyfikacji powinien mieć tylko użytkownik który dodał zawodnika lub ewentualnie jeśli ja wprowadzam zmianę to zanim ta zmiana pojawi się w systemie to dobrze aby musiała być zaakceptowana przez osobę, która stworzyła profil gracza
   
 3.Podczas dodawania nowego zawodnika i edycji danych zawodnika zauważyłam błędy w niżej wymienionych polach:
    
@@ -139,19 +148,28 @@ On my phone: Realme GT Master Edition with Adroid 13 the OLX app works very well
 
 ## Subtask 3
 
-*Do czego służy aplikacja OLX? Jaki jest cel tej aplikacji?*
+__*Do czego służy aplikacja OLX? Jaki jest cel tej aplikacji?*__
 
-Aplikacja służy do kupowania rzeczy, usług oraz dodawania ogłoszeń w kategoriach: Antyki i Kolekcje, Motoryzacja, Nieruchmości, Praca, Dom i Ogród, Elektronika, Moda, Rolnictwo, Zwierzęta, Dla Dzieci, Sport i Hobby, Muzyka i Edukacja, Zdrowie i Uroda, Usługi, Noclegi, Wypożyczalnia, Dla Firm, Outlet i Oddam za darmo.
+Aplikacja jest serwisem ogłoszeniowym. Służy do kupowania rzeczy, usług oraz dodawania ogłoszeń w kategoriach: Antyki i Kolekcje, Motoryzacja, Nieruchmości, Praca, Dom i Ogród, Elektronika, Moda, Rolnictwo, Zwierzęta, Dla Dzieci, Sport i Hobby, Muzyka i Edukacja, Zdrowie i Uroda, Usługi, Noclegi, Wypożyczalnia, Dla Firm, Outlet i Oddam za darmo.
 
-Celem aplikacji jest zarabianie. OLX zarabia na ogłoszeniach w płatnych kategoriach takich jak: Nieruchomości, Motoryzacja i Praca, na opłatach serwisowych, opłatach za możliwość promowania produktu, na reklamach płatnych
+Aplikacja OLX posiada poniższe funkcje:
+📱 przeglądanie ogłoszeń,
+📱 dodawanie ogłoszeń,
+📱 dodawanie zdjęć,
+📱 wyróżnienie ogłoszeń,
+📱 wymiana wiadomości,
+📱 wysyłanie CV za pośrednictwem formularza w kat. Praca,
+📱 obserwowanie wybranych ogłoszeń lub wyników wyszukiwania,
+
+Celem aplikacji jest zarabianie. OLX zarabia na ogłoszeniach w płatnych kategoriach takich jak: Nieruchomości, Motoryzacja i Praca, na opłatach serwisowych, opłatach za możliwość promowania ogłoszenia, na reklamach płatnych
 
 
-*Kto ma być użytkownikiem końcowym aplikacji?*
+__*Kto ma być użytkownikiem końcowym aplikacji?*__
 
-Ludzie mieszkający w Polsce (aplikacja jest dostępna jedynie w języku polskim). OLX jest dedykowany zarówno dla indywidualnych klietnów oraz dla firm
+OLX jest dedykowany zarówno dla klientów indywidualnych jak i dla firm. Dzięki szerokiej gamie kategorii, aplikacja jest kierowana do użytkowników w każdym wieku.
 
 
-*Czy według Ciebie aplikacja jest user friendly?*
+__*Czy według Ciebie aplikacja jest user friendly?*__
 
 Moim zdaniem aplikacja OLX jest przyjazna dla użytkownika:
 
@@ -161,11 +179,13 @@ Moim zdaniem aplikacja OLX jest przyjazna dla użytkownika:
 - przyjemna w użytkowaniu poprzez: -szybkie ładowanie strony, -intuicyjną nawigację, -architekturę informacji (logiczne i uporządkowane informacje w witrynie), -czytelną treść i jakościowy content, -przemyślany interfejs i formularze (użytkownik ma do wykonania jak najmniej zadań), -wyszukiwarka ułatwia użytkownikowi odnalezienie konkretnej informacji/rzeczy i oszczędza jego cenny czas dzięki wyświetlającym się "proponowanym wyszukiwaniom" oraz opcji filtrowania, lupka znajduje się w widocznym miejscu, na górnej belce
  
 
-*Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*
+__*Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*__
 
 Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunikatorów i social mediów użytkownicy są przyzwyczajeni do możliwości nawiązania kontaktu 24h/dobę, dlatego rozważyłabym implementację chatu czy messengera w witrynie lub przynajmniej dobrze widocznego przycisku "Napisz do nas". W tym momencie trzeba wejść w sekcję "Konto", przewinąć stronę, a następnie kliknąć "Pomoc". Przycisk Pomoc przekierowuje do strony w której jest dużo kategorii, które trzeba przeczytać żeby wybrać dotyczącą nas. 
 
-*Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*
+W sekcji "Praca" w polu wynagrodzenie dodałabym opcje do wyboru "Ogłoszenie bez widełek wynagrodzenia" i "Ogłoszenie z jawnym wynagrodzeniem". Na ten moment można dodać ogłoszenie o pracy na umowę o pracę z wynagrodzeniem od 0 zł.
+
+__*Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*__
 
 
 |💻Aplikacja Webowa                             | 📱  Aplikacja Mobilna                             |
