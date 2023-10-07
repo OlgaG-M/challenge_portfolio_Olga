@@ -21,12 +21,12 @@ Moje oczekiwania wobec projektu:
 -zwieńczenie 7 tygodniowego wyzwania pięknym portfolio oraz gotowością do rekrutacji i podjęcia pracy!❤ ✊
 
 ## Subtask 4
-*1.Na czym polega ta aplikacja? Do czego służy?*
+__*1.Na czym polega ta aplikacja? Do czego służy?*__
 
 FUTBOL KOLEKTYW jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie oraz dodawanie do systemu wskaźników, umiejętności i pozycji zawodników. Ma za zadanie zarabiać pieniądze poprzez zbieranie danych na temat zawodników piłki nożnej.
   
 
-*2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*
+__*2.Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?*__
 
 -Funkcjonalność "Logowanie do systemu", intuicyjne, nic bym nie zmieniła
 
@@ -57,18 +57,18 @@ FUTBOL KOLEKTYW jest to aplikacja dla skautów piłki nożnej, która umożliwia
 
 -Funkcjonalność "+DODAJ RAPORT": powinna umożliwiać utworzenie raportu, niestety funkcjonalność nie działa w tym momencie lecz błędnie przekierowuje do sekcji dodaj mecz
 
-*3.Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*
+__*3.Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*__
 
 
 Nie podoba mi się interfejs aplikacji ponieważ jest nieciekawy wizualnie, niedopracowany. Uważam, że brakuje notyfikacji typu wyskakująca chmurka, informująca do czego służy dana funkcja. 
 
 
-*4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*
+__*4.Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*__
 
 Aplikacja nie jest intuicyjna, jest mało czytelna. Np.: sekcja 'Aktywność' budzi moje wątpliwości- czy opisuje tylko moją aktywność czy również aktywność innych użytkowników.
 
 
-*5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)*
+__*5.Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)*__
 
 1.Scouts Panel  opisany jako "Panel zarządzania graczami, meczami i do tworzenia raportów" nie ma linka przekierowującego do panelu,a jednynie kieruje na stronę komunikatora slack
 
@@ -100,7 +100,7 @@ Aplikacja nie jest intuicyjna, jest mało czytelna. Np.: sekcja 'Aktywność' bu
 ## Subtask 2
 [Test cases based on my experience](https://docs.google.com/spreadsheets/d/1txJj5OKO9oGMF5e15Xwt6wDyI2O15vAUVYjQD3NaaLw/edit?usp=drive_link)
 ## Subtask 3
-WHY DO WE WRITE TEST CASES?
+__WHY DO WE WRITE TEST CASES?__
 
 - In order to ensure software works correctly, meet requirements and behaves as expected 
 
@@ -164,9 +164,11 @@ Aplikacja OLX posiada poniższe funkcje:
 Celem aplikacji jest zarabianie. OLX zarabia na ogłoszeniach w płatnych kategoriach takich jak: Nieruchomości, Motoryzacja i Praca, na opłatach serwisowych, opłatach za możliwość promowania ogłoszenia, na reklamach płatnych
 
 
+
 __*Kto ma być użytkownikiem końcowym aplikacji?*__
 
 OLX jest dedykowany zarówno dla klientów indywidualnych jak i dla firm. Dzięki szerokiej gamie kategorii, aplikacja jest kierowana do użytkowników w każdym wieku.
+
 
 
 __*Czy według Ciebie aplikacja jest user friendly?*__
@@ -179,11 +181,14 @@ Moim zdaniem aplikacja OLX jest przyjazna dla użytkownika:
 - przyjemna w użytkowaniu poprzez: -szybkie ładowanie strony, -intuicyjną nawigację, -architekturę informacji (logiczne i uporządkowane informacje w witrynie), -czytelną treść i jakościowy content, -przemyślany interfejs i formularze (użytkownik ma do wykonania jak najmniej zadań), -wyszukiwarka ułatwia użytkownikowi odnalezienie konkretnej informacji/rzeczy i oszczędza jego cenny czas dzięki wyświetlającym się "proponowanym wyszukiwaniom" oraz opcji filtrowania, lupka znajduje się w widocznym miejscu, na górnej belce
  
 
+
 __*Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?*__
 
 Dodałabym możliwość szybkiego nawiązania kontaktu z firmą. W dobie komunikatorów i social mediów użytkownicy są przyzwyczajeni do możliwości nawiązania kontaktu 24h/dobę, dlatego rozważyłabym implementację chatu czy messengera w witrynie lub przynajmniej dobrze widocznego przycisku "Napisz do nas". W tym momencie trzeba wejść w sekcję "Konto", przewinąć stronę, a następnie kliknąć "Pomoc". Przycisk Pomoc przekierowuje do strony w której jest dużo kategorii, które trzeba przeczytać żeby wybrać dotyczącą nas. 
 
 W sekcji "Praca" w polu wynagrodzenie dodałabym opcje do wyboru "Ogłoszenie bez widełek wynagrodzenia" i "Ogłoszenie z jawnym wynagrodzeniem". Na ten moment można dodać ogłoszenie o pracy na umowę o pracę z wynagrodzeniem od 0 zł.
+
+
 
 __*Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*__
 
