@@ -229,13 +229,13 @@ __*Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a n
 
 Operatory/zapytania SQL jakich się nauczyłam?
 
-|OPERACJE NA TABELI:    |OPERATORY:             |FUNKCJE:              |
-|-----------------------|-----------------------|----------------------|
-|-select                |-operator porównania   |-having, group by     |
-|-insert                |-operator SQL          |-data i czas          |
-|-update                |-operatory logiczne    |-funkcje tekstowe     |
-|-delete                |-operator arytmetyczny |-funkcje matematyczne |
-|-alter                 |-sortowanie wyników                         
+|OPERACJE NA TABELI:    |OPERATORY:                                    |FUNKCJE:              |
+|-----------------------|----------------------------------------------|----------------------|
+|-select                |-operator porównania                          |-having, group by     |
+|-insert                |-operator SQL (between and, in, like, null)   |-data i czas          |
+|-update                |-operatory logiczne (and, or, not)            |-funkcje tekstowe     |
+|-delete                |-operator arytmetyczny (+, -, *, /)           |-funkcje matematyczne |
+|-alter                 |-sortowanie wyników (order by id DECS lub ASC)                       
 |-drop                  |                                            
 
 
