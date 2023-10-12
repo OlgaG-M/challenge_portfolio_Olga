@@ -350,6 +350,12 @@ UPDATE customers SET pseudonym = 'Nag' WHERE customer_id = 6;
 
 <img width="337" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/090f4006-e8b2-4c5c-be5d-6dc0fc4d1b85">
 
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name ASC;
+
+<img width="88" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/d5d523da-49ad-45dd-907d-4f1687728a54">
+
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
     
 SELECT price, price + 2,5 FROM movies WHERE year_of_production > 2000; ZLE???
