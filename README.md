@@ -328,6 +328,7 @@ UPDATE customers SET surname = 'Miler' WHERE customer_id =3;
 SELECT * FROM `customers`;
 
 UPDATE customers SET email = 'pati@mail.com' WHERE customer_id =4;
+
 <img width="267" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/2dae08fb-d209-4d84-91dc-fe48989ad737">
 
 
