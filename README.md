@@ -332,6 +332,23 @@ UPDATE customers SET email = 'pati@mail.com' WHERE customer_id =4;
 
 <img width="267" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/2dae08fb-d209-4d84-91dc-fe48989ad737">
 
+15.  W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+ALTER TABLE customers ADD COLUMN pseudonym VARCHAR(20);  
+
+UPDATE customers SET pseudonym = 'Ols' WHERE customer_id = 1; 
+
+UPDATE customers SET pseudonym = 'Kal' WHERE customer_id = 2; 
+
+UPDATE customers SET pseudonym = 'Anr' WHERE customer_id = 3;
+
+UPDATE customers SET pseudonym = 'Par' WHERE customer_id = 4; 
+
+UPDATE customers SET pseudonym = 'Mao' WHERE customer_id = 5; 
+
+UPDATE customers SET pseudonym = 'Nag' WHERE customer_id = 6; 
+
+<img width="337" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/090f4006-e8b2-4c5c-be5d-6dc0fc4d1b85">
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
     
