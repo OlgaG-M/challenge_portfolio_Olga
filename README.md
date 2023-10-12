@@ -354,6 +354,12 @@ UPDATE customers SET pseudonym = 'Nag' WHERE customer_id = 6;
     
 SELECT price, price + 2,5 FROM movies WHERE year_of_production > 2000; ZLE???
 
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+    
+INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+
+<img width="369" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/8f15145e-af41-4290-81df-75162e6975e6">
+
 
 
 
