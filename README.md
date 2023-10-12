@@ -332,5 +332,11 @@ UPDATE customers SET email = 'pati@mail.com' WHERE customer_id =4;
 <img width="267" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/2dae08fb-d209-4d84-91dc-fe48989ad737">
 
 
+18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+    
+SELECT price, price + 2,5 FROM movies WHERE year_of_production > 2000; ZLE???
+
+
+
 
 
