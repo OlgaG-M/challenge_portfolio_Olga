@@ -279,7 +279,8 @@ Operatory/zapytania SQL jakich się nauczyłam?
 
 6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
-<img width="449" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/0d9d0038-5915-4ecf-9f0f-64e83d7c75f1">
+<img width="485" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/fc9f47a8-1226-4b6a-90c6-70ad7c8e8e41">
+
 
 
 
