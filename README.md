@@ -316,6 +316,7 @@ Operatory/zapytania SQL jakich się nauczyłam?
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
 SELECT * FROM `customers`;
+
 UPDATE customers SET surname = 'Miler' WHERE customer_id =3;
 
 <img width="269" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/ad2ef9bd-8a4c-4475-8a21-265d0af912d4">
