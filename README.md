@@ -310,3 +310,16 @@ Operatory/zapytania SQL jakich się nauczyłam?
 <img width="469" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/d32ed401-03ca-46e0-88d8-ead8791629d3">
 
 
+# TASK 6
+
+## SUBTASK 1
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
+SELECT * FROM `customers`;
+UPDATE customers SET surname = 'Miler' WHERE customer_id =3;
+
+<img width="269" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/ad2ef9bd-8a4c-4475-8a21-265d0af912d4">
+
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+
