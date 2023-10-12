@@ -323,4 +323,13 @@ UPDATE customers SET surname = 'Miler' WHERE customer_id =3;
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+SELECT * FROM `customers`;
+
+UPDATE customers SET email = 'pati@mail.com' WHERE customer_id =4;
+<img width="267" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/2dae08fb-d209-4d84-91dc-fe48989ad737">
+
+
+
 
