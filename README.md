@@ -368,5 +368,10 @@ INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, 
 
 
 
+## Subtask 2
+
+<img width="356" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/ec0b38fe-ac85-45e0-90d3-e12131708e1e">
+
+
 
 
