@@ -336,6 +336,13 @@ UPDATE customers SET email = 'pati@mail.com' WHERE customer_id =4;
 
 <img width="267" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/2dae08fb-d209-4d84-91dc-fe48989ad737">
 
+14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+SELECT sale.customer_id, sale.sale_date, sale.movie_id, customers.name, customers.surname, movies.title FROM sale INNER JOIN customers on customers.customer_id = sale.customer_id INNER JOIN movies on sale.movie_id = movies.movie_id = movies.movie_id;
+
+<img width="748" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/4e9da304-56e8-481b-9c3b-576e37248808">
+
+
 15.  W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
 
 ALTER TABLE customers ADD COLUMN pseudonym VARCHAR(20);  
@@ -354,6 +361,12 @@ UPDATE customers SET pseudonym = 'Nag' WHERE customer_id = 6;
 
 <img width="337" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/090f4006-e8b2-4c5c-be5d-6dc0fc4d1b85">
 
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+SELECT DISTINCT movies.title FROM movies, sale WHERE movies.movie_id = sale.movie_id;
+
+<img width="494" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/c743ebb1-f4ec-4020-b5f7-ff810ef975e5">
+
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
 SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name ASC;
@@ -361,8 +374,18 @@ SELECT name FROM customers UNION SELECT name FROM actors ORDER BY name ASC;
 <img width="88" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/d5d523da-49ad-45dd-907d-4f1687728a54">
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
-    
+
+UPDATE movies SET price = (price + 2.5) WHERE year_of_production > '2000';
+
+![image](https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/bc01dbee-1dab-4b52-aa74-87457d4e6dab)
+
 SELECT price, price + 2,5 FROM movies WHERE year_of_production > 2000; ZLE???
+19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+SELECT actors.name, actors.surname, movies.title FROM actors inner JOIN cast ON actors.actor_id = cast.actor_id inner JOIN movies ON cast.movie_id = movies.movie_id WHERE actors.actor_id = 4;
+
+<img width="738" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/3fc2b578-bbdf-4e0e-9ba4-3992bff01f9c">
+
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
     
