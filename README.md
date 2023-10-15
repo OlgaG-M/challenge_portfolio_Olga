@@ -326,9 +326,9 @@ UPDATE customers SET surname = 'Miler' WHERE customer_id =3;
 
 SELECT customers.name, customers.surname, customers.email FROM sale INNER JOIN customers ON sale.customer_id = customers.customer_id WHERE sale.movie_id = 4;
 
+<img width="193" alt="image" src="https://github.com/OlgaG-M/challenge_portfolio_Olga/assets/143441787/d412ce15-1096-4da5-8713-7dc0f760bfc9">
 
-
-14. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 
 SELECT * FROM `customers`;
 
