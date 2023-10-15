@@ -141,7 +141,7 @@ __WHY DO WE WRITE TEST CASES?__
   [Test report](https://docs.google.com/spreadsheets/d/1ZS7UksGLoomzaqqRipTm0naByUu-gWj6GGJffIDasi8/edit?usp=drive_link)
   
 ## Subtask 4
-  [Test cases based on "Guidebook tour" exploratory testimg session](https://docs.google.com/spreadsheets/d/1ajBTaI03hbp6EjGXFVksARfjW24qD8FeraD_K8IACrI/edit?fbclid=IwAR1mKqOwuYSU144t5l0OrcjbFAcGcC1aGHIkLG4hpb8NIa8YQVw4GV63cm0#gid=0)
+  [Test cases based on "Guidebook tour" exploratory testing session](https://docs.google.com/spreadsheets/d/1ajBTaI03hbp6EjGXFVksARfjW24qD8FeraD_K8IACrI/edit?fbclid=IwAR1mKqOwuYSU144t5l0OrcjbFAcGcC1aGHIkLG4hpb8NIa8YQVw4GV63cm0#gid=0)
 
 # TASK 4
 
@@ -235,7 +235,7 @@ Operatory/zapytania SQL jakich się nauczyłam?
 |-insert                |-operator SQL (between and, in, like, null)   |-data i czas          |
 |-update                |-operatory logiczne (and, or, not)            |-funkcje tekstowe     |
 |-delete                |-operator arytmetyczny (+, -, *, /)           |-funkcje matematyczne |
-|-alter                 |-sortowanie wyników (order by id DECS lub ASC)                       
+|-alter                 |-sortowanie wyników (order by id DECS lub ASC)|                               
 |-drop                  |                                            
 
 
@@ -324,7 +324,11 @@ UPDATE customers SET surname = 'Miler' WHERE customer_id =3;
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
-13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+SELECT customers.name, customers.surname, customers.email FROM sale INNER JOIN customers ON sale.customer_id = customers.customer_id WHERE sale.movie_id = 4;
+
+
+
+14. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 
 SELECT * FROM `customers`;
 
